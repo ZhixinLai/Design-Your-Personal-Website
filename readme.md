@@ -4,9 +4,9 @@ You can add your own photos and video in the image and video holders
 ## Navigation Bar
 ![image](https://github.com/ZhixinLai/Design-Your-Personal-page/blob/master/image_for_readme/img1.png)
 ## Basic information
-![image](https://github.com/ZhixinLai/Design-Your-Personal-page/blob/master/image_for_readme/img2.png)
+![image](https://github.com/ZhixinLai/Design-Your-Personal-page/blob/master/image_for_readme/img2.jpg)
 ## Daily life
-![image](https://github.com/ZhixinLai/Design-Your-Personal-page/blob/master/image_for_readme/img3.png)
+![image](https://github.com/ZhixinLai/Design-Your-Personal-page/blob/master/image_for_readme/img3.jpg)
 ## Skill
 ![image](https://github.com/ZhixinLai/Design-Your-Personal-page/blob/master/image_for_readme/img4.png)
 ## Experience
